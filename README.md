@@ -1,4 +1,3 @@
 # Ragnars Notes
 
-## 
 
