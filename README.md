@@ -1,1 +1,4 @@
-# ragnar-b.github.io
+# Ragnars Notes
+
+## 
+
